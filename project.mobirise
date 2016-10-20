@@ -24,7 +24,9 @@
       }
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/WINDOWS%207/Documents/GitHub"
+    "publishPath": "file:///C:/Users/WINDOWS%207/Documents/GitHub",
+    "favicon": "@PROJECT_PATH@/assets/images/pink-128x80-63.jpg",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -164,7 +166,7 @@
                 "showText": true,
                 "text": "We just LOVE weddings;&nbsp;and we love it even more<br>when you wish to share the joy of your special day with us.&nbsp;",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PERSONALIZE YOUR SPECIAL DAY</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"special-occasions.html\" data-toolbar=\"-mbrBtnMove\">PERSONALIZE YOUR SPECIAL DAY</a>"
               },
               {
                 "active": false,
@@ -192,7 +194,7 @@
                 "showText": true,
                 "text": "What better way to show your care and appreciation than to give thoughtful, handmade, personalized items that mean something to both the giver and receiver?",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DESIGN THE PERFECT GIFT</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"personalized-gifts.html\" data-toolbar=\"-mbrBtnMove\">DESIGN THE PERFECT GIFT</a>"
               },
               {
                 "active": false,
@@ -206,7 +208,7 @@
                 "showText": true,
                 "text": "Beautify your home with ready-to-ship items from our shop.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHOP</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"shop.html\" data-toolbar=\"-mbrBtnMove\">SHOP</a>"
               }
             ],
             "fullScreen": true,
@@ -391,9 +393,9 @@
           "title": "SAY HI TO US!",
           "subtitle": "Have anything to say? Want to collaborate? We'd love to hear from you!<br>PS: Love letters are acceptable, too.",
           "form": {
-            "action": "jennifer_swara@yahoo.com",
+            "action": "jennifereunike@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out. We will get back to you shortly. :)"
             },
             "fields": {
               "name": {
@@ -443,7 +445,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/eunikestudio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/eunikedesign/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -571,7 +573,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "46px"
             }
           },
           "_name": "msg-box8",
@@ -633,7 +635,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_inherit": "gallery1",
@@ -723,7 +725,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_name": "msg-box8",
@@ -785,12 +787,15 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_name": "msg-box8",
@@ -858,7 +863,7 @@
           "title1": "Solid Wood",
           "subtitle1": "with permanent paint",
           "caption1": "<b>Size: 44x60 cm</b><br>(can be portrait/landscape format)<br><br>One-sided Rp 750,000<br>Two-sided Rp 1,100,000<br><br><i>Prices include:</i><br><i>- Wood board (will belong to you)</i><br><i>- Easel rental during the event</i><br><i>- Drop off and setting in venue</i><br><i>(max 15 km from Bintaro)</i><br><i>Prices exclude flowers / lights decorations</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ODER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2666-600x600-73.jpg",
@@ -874,7 +879,7 @@
           "title2": "Plywood",
           "subtitle2": "with permanent paint",
           "caption2": "<b>Size: 48.5x65 cm</b><br>(can be portrait/landscape format)<br><br>One-sided Rp 650,000<br>Two-sided Rp 1,000,000<br><br><i>Prices include:<br>- Wood board (will belong to you)<br>- Easel rental during the event<br>- Drop off and setting in venue</i><br><i>(max 15 km from Bintaro)</i><br><i>Prices exclude flowers / lights decorations</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2665-600x600-88.jpg",
@@ -890,7 +895,7 @@
           "title3": "Plywood",
           "subtitle3": "with chalk (rent only)",
           "caption3": "<b>Size: 48.5x65 cm</b><br>(can be portrait/landscape format)<br><br>One-sided Rp 450,000<br>Two-sided Rp 600,000<br><br><i>Prices include:<br>- Wood board rental<br>- Easel rental during the event<br>- Drop off and setting in venue</i><br><i>(max 15 km from Bintaro)</i><br><i>Prices exclude flowers / lights decorations</i><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2665-600x600-73.jpg",
@@ -998,7 +1003,7 @@
           "title1": "Banner",
           "subtitle1": "Welcome signs / here comes the bride banner / others, written on your chosen fabric type and size.",
           "caption1": "Prices vary depending on size and fabric type.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scripture-for-phone-600x600-57.jpg",
@@ -1014,7 +1019,7 @@
           "title2": "Glass / Mirror",
           "subtitle2": "Welcome signs or others, written on your chosen glass / mirror frames.<br>",
           "caption2": "Prices vary depending on size and glass/mirror frame type.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3630-edited-600x600-8.jpg",
@@ -1030,7 +1035,7 @@
           "title3": "Writing Service Only",
           "subtitle3": "Write on wooden boards / glass / mirrors / walls / others that you or your decorator provides.",
           "caption3": "Prices vary depending on size, writing medium, and location.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3591-edited-600x600-28.jpg",
@@ -1149,7 +1154,7 @@
           "title1": "Natural Teakwood, non finishing",
           "subtitle1": "Natural shape of teakwood slices, non finishing. Size: approx. 10 cm.",
           "caption1": "Starting from Rp 15,000 / piece",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/10k-600x600-74.jpg",
@@ -1165,7 +1170,7 @@
           "title2": "Shaped Teakwood",
           "subtitle2": "Square / circle / &nbsp;triangle / hexagon shapes of teakwood slices, smooth finishing. Size: approx. 10 cm.",
           "caption2": "Starting from Rp 20,000 / piece",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3520-600x600-78.jpg",
@@ -1181,7 +1186,7 @@
           "title3": "Cards",
           "subtitle3": "Various types and colors of papers of your choosing.",
           "caption3": "Starting from Rp 10,000 / piece",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bouquet-1566272-1280-crop-600x600-10.jpg",
@@ -1197,7 +1202,7 @@
           "title4": "Others",
           "subtitle4": "Stones / tiles / ceramic / leaves / any surfaces you prefer. Tell us and we'll see what we can do.",
           "caption4": "Starting from Rp 10,000 / piece",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1227,6 +1232,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -1291,12 +1299,15 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -1370,7 +1381,7 @@
           "title1": "Woodburning",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Rp 45,000 / piece<br><i><br>Available color:<br>Natural</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3006-600x600-0.jpg",
@@ -1386,7 +1397,7 @@
           "title2": "Paint",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Rp 35,000 / piece<br><br><i>Available colors:<br>Natural, white, black</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3520-600x600-78.jpg",
@@ -1561,7 +1572,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "menu",
@@ -1721,7 +1732,7 @@
           "title1": "Floral Background<br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a> ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1675-600x600-92.jpg",
@@ -1737,7 +1748,7 @@
           "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Floral Wreath</span><br>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1835-600x600-14.jpg",
@@ -1753,7 +1764,7 @@
           "title3": "Personal Message",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One-sided: IDR 90,000<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/heart-shaped-600x600-91.jpg",
@@ -1839,7 +1850,7 @@
           "title1": "Galaxy Background",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/heart-shaped-600x600-33.jpg",
@@ -1855,7 +1866,7 @@
           "title2": "Dried Flower Ornament",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1519-600x603-34.jpg",
@@ -1871,7 +1882,7 @@
           "title3": "Dried Floral Wreath",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One-sided: IDR 125,000<br>Two-sided (plus personal message): IDR 175,000<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1835-600x600-36.jpg",
@@ -1953,7 +1964,7 @@
           "title1": "Woodburning",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 135,000<br>Two-sided (plus personal message): IDR 185,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-0688-600x600-36.jpg",
@@ -1969,7 +1980,7 @@
           "title2": "Simply Gold",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3132-600x600-68.jpg",
@@ -1985,7 +1996,7 @@
           "title3": "Illustration",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One-sided: IDR 150,000<br>Two-sided (plus personal message): IDR 160,000<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2029,6 +2040,101 @@
               "text-align": "center"
             },
             "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Regular Chopping Boards Shapes and Sizes",
+          "meta": "Design only: starting from Rp 1,250,000<br>Printing &amp; finishing: starting from Rp 10,000 / invitation"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3269-2000x2000-42-2000x2000-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3269-2000x2000-42.jpg",
+                "caption": "Rectangle shape with rope (15x20 cm)",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0170-2000x2000-43-2000x2000-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0170-2000x2000-43.jpg",
+                "caption": "Round shape with rope (diameter 17 cm)",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-2000x2000-59-2000x2000-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-2000x2000-59.jpg",
+                "caption": "Classic shape 1 (15x20 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0688-2000x2000-33-2000x2000-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0688-2000x2000-33.jpg",
+                "caption": "Classic shape 2 (15x25 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/heart-shaped-2000x2000-48-2000x2000-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/heart-shaped-2000x2000-48.jpg",
+                "caption": "Heart shape (15x20 cm)",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1o",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
               "font-size": "36px"
             }
           },
@@ -2061,7 +2167,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -2083,10 +2189,10 @@
           "title1": "Simply White",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 165,000 and up<br>Two-sided (plus personal message): IDR 225,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2491-600x600-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0464-compressed-600x600-39.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2099,7 +2205,7 @@
           "title2": "Woodburning",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 200,000 and up<br>Two-sided (plus personal message): IDR 260,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2492-600x600-18.jpg",
@@ -2302,7 +2408,7 @@
           "title1": "Banner",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Order a banner and have it written / illustrated in any way you like.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -2314,7 +2420,7 @@
           "title2": "Bag",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Provide your own bag and have it written / illustrated in any way you like.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2326,7 +2432,7 @@
           "title3": "Pouch",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Provide your own pouch and have it written / illustrated in any way you like.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2338,7 +2444,7 @@
           "title4": "T-Shirt",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Provide your own t-shirt and have it written / illustrated in any way you like.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2413,7 +2519,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "5",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -2435,7 +2541,7 @@
           "title1": "Watercolor Texture Background",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 65,000<br>5R (13x18cm) Rp 70,000<br>6R (15x20cm) Rp 75,000<br>A4 size (21x29.7cm) Rp 80,000<br>A3 size (29.7x42cm) Rp 160,000<br><br><i>(prices exclude frames)</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ODER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2029-600x600-37.jpg",
@@ -2451,10 +2557,10 @@
           "title2": "Floral Background",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 90,000<br>A3 size (29.7x42cm) Rp 180,000<br><br><i>(prices exclude frames)</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1535-600x600-58.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0465-compressed-600x600-49.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2464,10 +2570,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Simple Text",
+          "title3": "Floral Decoration",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 60,000<br>5R (13x18cm) Rp 65,000<br>6R (15x20cm) Rp 70,000<br>A4 size (21x29.7cm) Rp 75,000<br>A3 size (29.7x42cm) Rp 150,000<br><br><i>(prices exclude frames)</i><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 200,000<br><br><i>(prices exclude frames)</i><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1595-600x600-95.jpg",
@@ -2483,7 +2589,7 @@
           "title4": "Personal Message / Poem",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 65,000<br>5R (13x18cm) Rp 70,000<br>6R (15x20cm) Rp 75,000<br>A4 size (21x29.7cm) Rp 80,000<br><br><br><i>(prices exclude frames)</i><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3024-600x600-34.jpg",
@@ -2499,7 +2605,7 @@
           "title5": "Tumbler Insert",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Standard size<br>Rp 85,000<br><br><br><br><br><br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -2531,7 +2637,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -2551,26 +2657,10 @@
             }
           },
           "title1": "Floral Wreath",
-          "subtitle1": "For longer text (ex: quotes, bible verses)",
-          "caption1": "<b><br></b><b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 200,000<br><br><i>(prices exclude frames)</i><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "subtitle1": "",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 200,000<br><br><i>(prices exclude frames)</i><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2901-600x600-20.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Floral Wreath",
-          "subtitle2": "For shorter text (ex: names, 1-5 words' quotes)",
-          "caption2": "<b><br></b><b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 90,000<br>A3 size (29.7x42cm) Rp 180,000<br><br><i>(prices exclude frames)</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3630-edited-600x600-8.jpg",
               "class": "card-img-top",
@@ -2582,10 +2672,26 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Digital Mixed Handwritten Cards",
-          "subtitle3": "Minimum 5 cards; digital ornaments &amp; handwritten text)",
-          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 45,000<br>5R (13x18cm) Rp 50,000<br>6R (15x20cm) Rp 55,000<br>A4 size (21x29.7cm) Rp 60,000<br><br><br><i>(prices exclude frames)</i><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title2": "Digital Mixed Handwritten Cards",
+          "subtitle2": "Minimum 5 cards; digital ornaments &amp; handwritten text",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 45,000<br>5R (13x18cm) Rp 50,000<br>6R (15x20cm) Rp 55,000<br>A4 size (21x29.7cm) Rp 60,000<br><br><br><i>(prices exclude frames)</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1535-600x600-69.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Simple Text",
+          "subtitle3": "",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 60,000<br>5R (13x18cm) Rp 65,000<br>6R (15x20cm) Rp 70,000<br>A4 size (21x29.7cm) Rp 75,000<br>A3 size (29.7x42cm) Rp 150,000<br><br><i>(prices exclude frames)</i><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3591-edited-600x600-28.jpg",
@@ -2601,7 +2707,7 @@
           "title4": "Greeting Cards",
           "subtitle4": "Prices exclude personal message on the inside.",
           "caption4": "<b><br></b><b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 35,000<br>5R (13x18cm) Rp 45,000<br>6R (15x20cm) Rp 50,000<br>A4 size (21x29.7cm) Rp 55,000<br><br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2614,6 +2720,127 @@
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-3591-edited-600x600-42.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Greeting Cards",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 35,000<br>5R (13x18cm) Rp 45,000<br>6R (15x20cm) Rp 50,000<br>A4 size (21x29.7cm) Rp 55,000<br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1595-600x600-75.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Personal Message / Poem",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 90,000<br>A3 size (29.7x42cm) Rp 180,000<br><br><i>(prices exclude frames)</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-3024-600x600-13.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Tumbler Insert",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Standard size<br>Rp 85,000<br><br><br><br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-3591-edited-600x600-53.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Greeting Cards",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\"><b>AVAILABLE SIZES:</b></span><br>4R (10x15cm) Rp 35,000<br>5R (13x18cm) Rp 45,000<br>6R (15x20cm) Rp 50,000<br>A4 size (21x29.7cm) Rp 55,000<br><br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media5": {
+            "image": {
+              "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3024-600x600-34.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Tumbler Insert",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Standard size<br>Rp 85,000<br><br><br><br><br><br><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -2701,10 +2928,10 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Personalized Arts / Exclusive Rights /<br>For Personal Use Only",
+          "title1": "Personalized Arts / Exclusive Rights /For Personal Use Only",
           "subtitle1": "For personalized text/illustration (ex: names, messages),&nbsp;and/or if you want the artwork to be exclusively yours&nbsp;(we cannot sell/reproduce the artwork for other parties).<br>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.<br>For business purposes, see our <b>business page.</b>",
           "caption1": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 75,000 <br>A4 size (21x29.7cm) Rp 115,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"AVAILABLE SIZES: 4R (10x15cm) Rp 35,000 5R (13x18cm) Rp 45,000 6R (15x20cm) Rp 50,000 A4 size (21x29.7cm) Rp 55,000\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scripture-for-phone-600x600-57.jpg",
@@ -2717,10 +2944,10 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Generic Arts / Non-exclusive Rights /<div>For Personal Use Only</div>",
+          "title2": "Generic Arts / Non-exclusive Rights /<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">For Personal Use Only</span>",
           "subtitle2": "For general text/illustration (ex: quotes, bible verses), and we can sell/reproduce the artwork for other parties).<div>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.</div><div>For business purposes, see our business page.</div>",
           "caption2": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 60,000 <br>A4 size (21x29.7cm) Rp 90,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"AVAILABLE SIZES: 4R (10x15cm) Rp 35,000 5R (13x18cm) Rp 45,000 6R (15x20cm) Rp 50,000 A4 size (21x29.7cm) Rp 55,000\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3630-edited-600x600-8.jpg",
@@ -2838,7 +3065,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -2968,9 +3195,9 @@
           "title": "CAN'T FIND WHAT YOU NEED?",
           "subtitle": "Tell us all about it; we'll see what we can do. :)",
           "form": {
-            "action": "jennifer_swara@yahoo.com",
+            "action": "jennifereunike@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out. We'll get back to you shortly :)"
             },
             "fields": {
               "name": {
@@ -3122,7 +3349,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "46px"
             }
           },
           "_name": "msg-box8",
@@ -3193,7 +3420,7 @@
           "title1": "One-off",
           "subtitle1": "Get a single logo design or concept in the format of your choosing (hand-drawn, JPEG, PDF, etc).<div>Enjoy free 3 times revision.</div>",
           "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Rp 500,000</span><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1mLuLPyb2sREgU4pLnCniPGqKc9vpj9q20hgGS-wemZ8/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-1630-600x600-5.jpg",
@@ -3209,7 +3436,7 @@
           "title2": "Professional Digital Set",
           "subtitle2": "Get a ready-to-use graphic set of your logo for various usage - square and long format, black &amp; white and full colour, JPEG and PNG transparent, hi-res and low-res.<div>Enjoy free 3 times revision.</div>",
           "caption2": "Rp 700,000",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1mLuLPyb2sREgU4pLnCniPGqKc9vpj9q20hgGS-wemZ8/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3546-600x600-76.jpg",
@@ -3225,7 +3452,7 @@
           "title3": "Editable Raw Files",
           "subtitle3": "Get a professional digital set in both ready-to-use and editable version in vector, PSD or AI for future usage.<br>Enjoy free 5 times revision.",
           "caption3": "Rp 900,000",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1mLuLPyb2sREgU4pLnCniPGqKc9vpj9q20hgGS-wemZ8/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3562-600x600-83.jpg",
@@ -3298,7 +3525,7 @@
             "showText": false,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.3is.co\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCOVER MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.3is.co/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCOVER MORE</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "title": "OUR LOGO DESIGN SERVICE IS ON COLLABORATION WITH THREEIS."
         },
@@ -3308,7 +3535,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_name": "msg-box8",
@@ -3370,12 +3597,15 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1AafRNld_03kU2f2BrtBw4nMkFxH3cX26Phtp05Kyhp8/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -3440,12 +3670,15 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1EDJ2yQTKtXNRLOuWxLk6P48m1Bty3boCIelz2iFpT1g/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -3510,7 +3743,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1bSs12KIQ4WrIzMtsjoDs1x1jze12Guj6DsVgDHHb03Q/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_tags": [
@@ -3547,9 +3780,9 @@
           "title": "CAN'T FIND WHAT YOU NEED?",
           "subtitle": "Tell us all about it; we'll see what we can do. :)",
           "form": {
-            "action": "jennifer_swara@yahoo.com",
+            "action": "jennifereunike@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out. We'll get back to you shortly :)"
             },
             "fields": {
               "name": {
@@ -3592,7 +3825,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bicycle-1130156-1920-2000x1125-17.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shop-2000x1125-48.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4368,7 +4601,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/floral-pattern-small-2000x1996-59-2000x1996-17.jpg",
                 "image": "@PROJECT_PATH@/assets/images/floral-pattern-small-2000x1996-59.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Paper Artworks, Bible Verses Artworks",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0465-compressed-2000x2000-49-2000x2000-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0465-compressed-2000x2000-49.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Paper Artworks, Bible Verses Artworks",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0466-compressed-2000x2000-76-2000x2000-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0466-compressed-2000x2000-76.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -4417,9 +4670,9 @@
           "title": "LET US KNOW WHAT YOU NEED!",
           "subtitle": "Want to order those stuffs, other stuffs, or need more information on them? Hit us up!",
           "form": {
-            "action": "jennifer_swara@yahoo.com",
+            "action": "jennifereunike@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out. We'll get back to you shortly :)"
             },
             "fields": {
               "name": {
