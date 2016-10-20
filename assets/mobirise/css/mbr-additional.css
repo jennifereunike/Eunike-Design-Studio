@@ -573,7 +573,7 @@ h6,
   color: #fff;
 }
 #msg-box8-6 .mbr-section-title {
-  font-size: 60px;
+  font-size: 46px;
 }
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
@@ -587,7 +587,7 @@ h6,
   color: #fff;
 }
 #msg-box8-f .mbr-section-title {
-  font-size: 48px;
+  font-size: 46px;
 }
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
@@ -599,6 +599,9 @@ h6,
 #msg-box8-h .mbr-section-title,
 #msg-box8-h p {
   color: #fff;
+}
+#msg-box8-h .mbr-section-title {
+  font-size: 46px;
 }
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
@@ -615,6 +618,9 @@ h6,
 #msg-box8-n p {
   color: #fff;
 }
+#msg-box8-n .mbr-section-title {
+  font-size: 46px;
+}
 #header3-v .mbr-section-title,
 #header3-v .mbr-section-subtitle {
   text-align: center;
@@ -625,6 +631,9 @@ h6,
 #msg-box8-o .mbr-section-title,
 #msg-box8-o p {
   color: #fff;
+}
+#msg-box8-o .mbr-section-title {
+  font-size: 46px;
 }
 #form1-m .form-control-label {
   color: #ffffff;
@@ -695,7 +704,7 @@ h6,
 }
 #page2-menu-0 .link[aria-expanded="true"],
 #page2-menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #page2-header1-0 .mbr-section-title {
   font-size: 60px;
@@ -713,6 +722,13 @@ h6,
 }
 #personalized_gifts-header3-0 H3 {
   font-size: 36px;
+}
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1n H3 {
+  font-size: 30px;
 }
 #personalized_gifts-header3-1 .mbr-section-title,
 #personalized_gifts-header3-1 .mbr-section-subtitle {
@@ -826,7 +842,7 @@ h6,
   color: #fff;
 }
 #msg-box8-13 .mbr-section-title {
-  font-size: 60px;
+  font-size: 46px;
 }
 #msg-box1-1o H3 {
   font-size: 30px;
@@ -836,7 +852,7 @@ h6,
   color: #fff;
 }
 #msg-box8-17 .mbr-section-title {
-  font-size: 48px;
+  font-size: 46px;
 }
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {
@@ -849,6 +865,9 @@ h6,
 #msg-box8-1e p {
   color: #fff;
 }
+#msg-box8-1e .mbr-section-title {
+  font-size: 46px;
+}
 #header3-1h .mbr-section-title,
 #header3-1h .mbr-section-subtitle {
   text-align: center;
@@ -859,6 +878,9 @@ h6,
 #msg-box8-1m .mbr-section-title,
 #msg-box8-1m p {
   color: #fff;
+}
+#msg-box8-1m .mbr-section-title {
+  font-size: 46px;
 }
 #header3-1p .mbr-section-title,
 #header3-1p .mbr-section-subtitle {
