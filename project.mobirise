@@ -24,7 +24,7 @@
       }
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/WINDOWS%207/Documents/GitHub",
+    "publishPath": "file:///C:/Users/WINDOWS%207/Documents/GitHub/Eunike%20Design%20Studio",
     "favicon": "@PROJECT_PATH@/assets/images/pink-128x80-63.jpg",
     "noImageResize": ""
   },
@@ -2929,9 +2929,9 @@
             }
           },
           "title1": "Personalized Arts / Exclusive Rights /For Personal Use Only",
-          "subtitle1": "For personalized text/illustration (ex: names, messages),&nbsp;and/or if you want the artwork to be exclusively yours&nbsp;(we cannot sell/reproduce the artwork for other parties).<br>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.<br>For business purposes, see our <b>business page.</b>",
+          "subtitle1": "For personalized text/illustration (ex: names, messages),&nbsp;and/or if you want the artwork to be exclusively yours&nbsp;(we cannot sell/reproduce the artwork for other parties).<br>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.<br>For business purposes, see our business page<b>.</b>",
           "caption1": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 75,000 <br>A4 size (21x29.7cm) Rp 115,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"AVAILABLE SIZES: 4R (10x15cm) Rp 35,000 5R (13x18cm) Rp 45,000 6R (15x20cm) Rp 50,000 A4 size (21x29.7cm) Rp 55,000\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scripture-for-phone-600x600-57.jpg",
@@ -2945,9 +2945,9 @@
             }
           },
           "title2": "Generic Arts / Non-exclusive Rights /<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">For Personal Use Only</span>",
-          "subtitle2": "For general text/illustration (ex: quotes, bible verses), and we can sell/reproduce the artwork for other parties).<div>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.</div><div>For business purposes, see our business page.</div>",
+          "subtitle2": "For general text/illustration (ex: quotes, bible verses), and we can sell/reproduce the artwork for other parties).<div>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.</div><div>For business purposes, see our <a href=\"business.html\">business page</a>.</div>",
           "caption2": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 60,000 <br>A4 size (21x29.7cm) Rp 90,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"AVAILABLE SIZES: 4R (10x15cm) Rp 35,000 5R (13x18cm) Rp 45,000 6R (15x20cm) Rp 50,000 A4 size (21x29.7cm) Rp 55,000\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3630-edited-600x600-8.jpg",
