@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EUNIKE DESIGN STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikearts/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikedesign/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
         },
         {
           "_name": "slider",
@@ -150,7 +150,7 @@
                 "showTitle": true,
                 "title": "Hello, glad to<br>have you here!",
                 "showText": true,
-                "text": "Welcome to our playground made out of dreams, lace, flowers and hopes.",
+                "text": "Welcome to our playground made up of dreams, lace, flowers and hopes.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -534,7 +534,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EUNIKE DESIGN STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikearts/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikedesign/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
         },
         {
           "_name": "header1",
@@ -635,7 +635,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_inherit": "gallery1",
@@ -787,7 +787,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
@@ -863,7 +863,7 @@
           "title1": "Solid Wood",
           "subtitle1": "with permanent paint",
           "caption1": "<b>Size: 44x60 cm</b><br>(can be portrait/landscape format)<br><br>One-sided Rp 750,000<br>Two-sided Rp 1,100,000<br><br><i>Prices include:</i><br><i>- Wood board (will belong to you)</i><br><i>- Easel rental during the event</i><br><i>- Drop off and setting in venue</i><br><i>(max 15 km from Bintaro)</i><br><i>Prices exclude flowers / lights decorations</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2666-600x600-73.jpg",
@@ -879,7 +879,7 @@
           "title2": "Plywood",
           "subtitle2": "with permanent paint",
           "caption2": "<b>Size: 48.5x65 cm</b><br>(can be portrait/landscape format)<br><br>One-sided Rp 650,000<br>Two-sided Rp 1,000,000<br><br><i>Prices include:<br>- Wood board (will belong to you)<br>- Easel rental during the event<br>- Drop off and setting in venue</i><br><i>(max 15 km from Bintaro)</i><br><i>Prices exclude flowers / lights decorations</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2665-600x600-88.jpg",
@@ -895,7 +895,7 @@
           "title3": "Plywood",
           "subtitle3": "with chalk (rent only)",
           "caption3": "<b>Size: 48.5x65 cm</b><br>(can be portrait/landscape format)<br><br>One-sided Rp 450,000<br>Two-sided Rp 600,000<br><br><i>Prices include:<br>- Wood board rental<br>- Easel rental during the event<br>- Drop off and setting in venue</i><br><i>(max 15 km from Bintaro)</i><br><i>Prices exclude flowers / lights decorations</i><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2665-600x600-73.jpg",
@@ -1003,7 +1003,7 @@
           "title1": "Banner",
           "subtitle1": "Welcome signs / here comes the bride banner / others, written on your chosen fabric type and size.",
           "caption1": "Prices vary depending on size and fabric type.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scripture-for-phone-600x600-57.jpg",
@@ -1019,7 +1019,7 @@
           "title2": "Glass / Mirror",
           "subtitle2": "Welcome signs or others, written on your chosen glass / mirror frames.<br>",
           "caption2": "Prices vary depending on size and glass/mirror frame type.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3630-edited-600x600-8.jpg",
@@ -1035,7 +1035,7 @@
           "title3": "Writing Service Only",
           "subtitle3": "Write on wooden boards / glass / mirrors / walls / others that you or your decorator provides.",
           "caption3": "Prices vary depending on size, writing medium, and location.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3591-edited-600x600-28.jpg",
@@ -1107,7 +1107,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "PLACE CARDS",
+          "title": "PLACE CARDS /<br>ESCORT CARDS",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -1154,7 +1154,7 @@
           "title1": "Natural Teakwood, non finishing",
           "subtitle1": "Natural shape of teakwood slices, non finishing. Size: approx. 10 cm.",
           "caption1": "Starting from Rp 15,000 / piece",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/10k-600x600-74.jpg",
@@ -1170,7 +1170,7 @@
           "title2": "Shaped Teakwood",
           "subtitle2": "Square / circle / &nbsp;triangle / hexagon shapes of teakwood slices, smooth finishing. Size: approx. 10 cm.",
           "caption2": "Starting from Rp 20,000 / piece",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3520-600x600-78.jpg",
@@ -1186,7 +1186,7 @@
           "title3": "Cards",
           "subtitle3": "Various types and colors of papers of your choosing.",
           "caption3": "Starting from Rp 10,000 / piece",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bouquet-1566272-1280-crop-600x600-10.jpg",
@@ -1202,7 +1202,7 @@
           "title4": "Others",
           "subtitle4": "Stones / tiles / ceramic / leaves / any surfaces you prefer. Tell us and we'll see what we can do.",
           "caption4": "Starting from Rp 10,000 / piece",
-          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1285,7 +1285,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "MESSAGES FOR THE BRIDE, GROOM, FATHER, MOTHER, IN-LAWS, MAID OF HONOR, BRIDESMAID ON THE WEDDING DAY",
+          "title": "MESSAGES FOR THE BRIDE, GROOM, FATHER, MOTHER, IN-LAWS, MAID OF HONOR, BRIDESMAID ON THE WEDDING DAY, WEDDING VOWS, AND OTHERS",
           "meta": "Starting from Rp 35,000 / card"
         },
         {
@@ -1299,7 +1299,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1IWYRmcnHdkpCSviBZJtyOuci4vDeKYJXTsgyjIOp1W4/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
@@ -1380,8 +1380,8 @@
           },
           "title1": "Woodburning",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Rp 45,000 / piece<br><i><br>Available color:<br>Natural</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption1": "Rp 45,000 / piece<br><i><br></i><i><br>Available color:<br>Natural</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3006-600x600-0.jpg",
@@ -1396,8 +1396,8 @@
           },
           "title2": "Paint",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Rp 35,000 / piece<br><br><i>Available colors:<br>Natural, white, black</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nfxqbLLHHJTZ91Jkg1g3ll3dFtkOrBUIxP85mFJRxiE/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption2": "Text only: Rp 35,000 / piece<br>Text + painting: Rp 50,000 / piece<br><br><i>Available colors:<br>Natural, white, black</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3520-600x600-78.jpg",
@@ -1605,7 +1605,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EUNIKE DESIGN STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikearts/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikedesign/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
         },
         {
           "_name": "header1",
@@ -1654,7 +1654,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/texture-1574104-1280-2000x1334-57.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wood-2000x1334-74.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1732,7 +1732,7 @@
           "title1": "Floral Background<br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a> ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1675-600x600-92.jpg",
@@ -1748,7 +1748,7 @@
           "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Floral Wreath</span><br>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1835-600x600-14.jpg",
@@ -1764,7 +1764,7 @@
           "title3": "Personal Message",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One-sided: IDR 90,000<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/heart-shaped-600x600-91.jpg",
@@ -1850,7 +1850,7 @@
           "title1": "Galaxy Background",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/heart-shaped-600x600-33.jpg",
@@ -1866,7 +1866,7 @@
           "title2": "Dried Flower Ornament",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1519-600x603-34.jpg",
@@ -1882,7 +1882,7 @@
           "title3": "Dried Floral Wreath",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One-sided: IDR 125,000<br>Two-sided (plus personal message): IDR 175,000<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1835-600x600-36.jpg",
@@ -1964,7 +1964,7 @@
           "title1": "Woodburning",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 135,000<br>Two-sided (plus personal message): IDR 185,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-0688-600x600-36.jpg",
@@ -1980,7 +1980,7 @@
           "title2": "Simply Gold",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3132-600x600-68.jpg",
@@ -1996,7 +1996,7 @@
           "title3": "Illustration",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One-sided: IDR 150,000<br>Two-sided (plus personal message): IDR 160,000<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2189,7 +2189,7 @@
           "title1": "Simply White",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One-sided: IDR 165,000 and up<br>Two-sided (plus personal message): IDR 225,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-0464-compressed-600x600-39.jpg",
@@ -2205,7 +2205,7 @@
           "title2": "Woodburning",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One-sided: IDR 200,000 and up<br>Two-sided (plus personal message): IDR 260,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2492-600x600-18.jpg",
@@ -2354,7 +2354,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/knit-1500769-1280-2000x987-52.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fabric-2000x987-94.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2408,7 +2408,7 @@
           "title1": "Banner",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Order a banner and have it written / illustrated in any way you like.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -2420,7 +2420,7 @@
           "title2": "Bag",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Provide your own bag and have it written / illustrated in any way you like.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2432,7 +2432,7 @@
           "title3": "Pouch",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Provide your own pouch and have it written / illustrated in any way you like.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2444,7 +2444,7 @@
           "title4": "T-Shirt",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Provide your own t-shirt and have it written / illustrated in any way you like.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2483,7 +2483,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/brown-69465-1280-2000x1332-43.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/paper-2000x1332-58.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2540,8 +2540,8 @@
           },
           "title1": "Watercolor Texture Background",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 65,000<br>5R (13x18cm) Rp 70,000<br>6R (15x20cm) Rp 75,000<br>A4 size (21x29.7cm) Rp 80,000<br>A3 size (29.7x42cm) Rp 160,000<br><br><i>(prices exclude frames)</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 65,000<br>5R (13x18cm) Rp 70,000<br>6R (15x20cm) Rp 75,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 190,000<br><br><i>(prices exclude frames)</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2029-600x600-37.jpg",
@@ -2556,8 +2556,8 @@
           },
           "title2": "Floral Background",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 90,000<br>A3 size (29.7x42cm) Rp 180,000<br><br><i>(prices exclude frames)</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 120,000<br>A3 size (29.7x42cm) Rp 220,000<br><br><i>(prices exclude frames)</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-0465-compressed-600x600-49.jpg",
@@ -2572,8 +2572,8 @@
           },
           "title3": "Floral Decoration",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 200,000<br><br><i>(prices exclude frames)</i><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 140,000<br>A3 size (29.7x42cm) Rp 250,000<br><br><i>(prices exclude frames)</i><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1595-600x600-95.jpg",
@@ -2658,8 +2658,8 @@
           },
           "title1": "Floral Wreath",
           "subtitle1": "",
-          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 200,000<br><br><i>(prices exclude frames)</i><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 140,000<br>A3 size (29.7x42cm) Rp 250,000<br><br><i>(prices exclude frames)</i><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3630-edited-600x600-8.jpg",
@@ -2674,8 +2674,8 @@
           },
           "title2": "Digital Mixed Handwritten Cards",
           "subtitle2": "Minimum 5 cards; digital ornaments &amp; handwritten text",
-          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 45,000<br>5R (13x18cm) Rp 50,000<br>6R (15x20cm) Rp 55,000<br>A4 size (21x29.7cm) Rp 60,000<br><br><br><i>(prices exclude frames)</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 45,000<br>5R (13x18cm) Rp 50,000<br>6R (15x20cm) Rp 55,000<br>A4 size (21x29.7cm) Rp 70,000<br><br><i>(prices include printing, exclude frames)</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1535-600x600-69.jpg",
@@ -2690,8 +2690,8 @@
           },
           "title3": "Simple Text",
           "subtitle3": "",
-          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 60,000<br>5R (13x18cm) Rp 65,000<br>6R (15x20cm) Rp 70,000<br>A4 size (21x29.7cm) Rp 75,000<br>A3 size (29.7x42cm) Rp 150,000<br><br><i>(prices exclude frames)</i><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 60,000<br>5R (13x18cm) Rp 65,000<br>6R (15x20cm) Rp 70,000<br>A4 size (21x29.7cm) Rp 95,000<br>A3 size (29.7x42cm) Rp 160,000<br><br><i>(prices exclude frames)</i><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3591-edited-600x600-28.jpg",
@@ -2775,8 +2775,8 @@
           },
           "title1": "Greeting Cards",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 35,000<br>5R (13x18cm) Rp 45,000<br>6R (15x20cm) Rp 50,000<br>A4 size (21x29.7cm) Rp 55,000<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 35,000<br>5R (13x18cm) Rp 45,000<br>6R (15x20cm) Rp 50,000<br>A4 size (21x29.7cm) Rp 55,000<br><br><br><i>(lettering on cover only)</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-1595-600x600-75.jpg",
@@ -2792,7 +2792,7 @@
           "title2": "Personal Message / Poem",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 90,000<br>A3 size (29.7x42cm) Rp 180,000<br><br><i>(prices exclude frames)</i><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3024-600x600-13.jpg",
@@ -2807,8 +2807,8 @@
           },
           "title3": "Tumbler Insert",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Standard size<br>Rp 85,000<br><br><br><br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "caption3": "<b>ALL SIZES</b><br>Rp 85,000<br><br><br><br><br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3591-edited-600x600-53.jpg",
@@ -2870,7 +2870,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/keyboard-932830-1280-2000x1329-26.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/digital-2000x1329-63.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2929,9 +2929,9 @@
             }
           },
           "title1": "Personalized Arts / Exclusive Rights /For Personal Use Only",
-          "subtitle1": "For personalized text/illustration (ex: names, messages),&nbsp;and/or if you want the artwork to be exclusively yours&nbsp;(we cannot sell/reproduce the artwork for other parties).<br>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.<br>For business purposes, see our business page<b>.</b>",
-          "caption1": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 75,000 <br>A4 size (21x29.7cm) Rp 115,000<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "subtitle1": "For personalized text/illustration (ex: names, messages),&nbsp;and/or if you want the artwork to be exclusively yours&nbsp;(we cannot sell/reproduce the artwork for other parties).<br>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.<br>For business purposes, see our <a href=\"business.html\" target=\"_blank\">business page</a><b>.</b>",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 100,000 <br>A4 size (21x29.7cm) Rp 175,000<br><br><i>(prices exc;lude printing)</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scripture-for-phone-600x600-57.jpg",
@@ -2945,9 +2945,9 @@
             }
           },
           "title2": "Generic Arts / Non-exclusive Rights /<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">For Personal Use Only</span>",
-          "subtitle2": "For general text/illustration (ex: quotes, bible verses), and we can sell/reproduce the artwork for other parties).<div>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.</div><div>For business purposes, see our <a href=\"business.html\">business page</a>.</div>",
-          "caption2": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 60,000 <br>A4 size (21x29.7cm) Rp 90,000<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "subtitle2": "For general text/illustration (ex: quotes, bible verses), and we can sell/reproduce the artwork for other parties).<div>You must NOT distribute the artwork for business purposes (resell the artwork) without our consent.</div><div>For business purposes, see our <a href=\"business.html\" target=\"_blank\">business page</a>.</div>",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>A5 size (14,8x21cm) Rp 70,000 <br>A4 size (21x29.7cm) Rp 125,000<br><br><i>(prices exc;lude printing)</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3630-edited-600x600-8.jpg",
@@ -3310,7 +3310,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EUNIKE DESIGN STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikearts/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikedesign/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
         },
         {
           "_name": "header1",
@@ -3324,7 +3324,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/workspace-766045-1280-2000x1332-19.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/business-2000x1332-6.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3359,7 +3359,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/writing-828911-1280-2000x1332-7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/writing-2000x1332-69.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3420,7 +3420,7 @@
           "title1": "One-off",
           "subtitle1": "Get a single logo design or concept in the format of your choosing (hand-drawn, JPEG, PDF, etc).<div>Enjoy free 3 times revision.</div>",
           "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Rp 500,000</span><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1mLuLPyb2sREgU4pLnCniPGqKc9vpj9q20hgGS-wemZ8/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-1630-600x600-5.jpg",
@@ -3436,7 +3436,7 @@
           "title2": "Professional Digital Set",
           "subtitle2": "Get a ready-to-use graphic set of your logo for various usage - square and long format, black &amp; white and full colour, JPEG and PNG transparent, hi-res and low-res.<div>Enjoy free 3 times revision.</div>",
           "caption2": "Rp 700,000",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1mLuLPyb2sREgU4pLnCniPGqKc9vpj9q20hgGS-wemZ8/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3546-600x600-76.jpg",
@@ -3452,7 +3452,7 @@
           "title3": "Editable Raw Files",
           "subtitle3": "Get a professional digital set in both ready-to-use and editable version in vector, PSD or AI for future usage.<br>Enjoy free 5 times revision.",
           "caption3": "Rp 900,000",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1mLuLPyb2sREgU4pLnCniPGqKc9vpj9q20hgGS-wemZ8/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
               "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/img-3562-600x600-83.jpg",
@@ -3597,7 +3597,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1AafRNld_03kU2f2BrtBw4nMkFxH3cX26Phtp05Kyhp8/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
@@ -3618,7 +3618,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/food-1685942-1280-crop-2000x1026-10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/menu-2000x1026-33.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3670,7 +3670,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1EDJ2yQTKtXNRLOuWxLk6P48m1Bty3boCIelz2iFpT1g/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_styles": {
@@ -3691,7 +3691,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-1474232-1280-2000x1332-29.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/social-media-2000x1332-96.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3730,7 +3730,7 @@
             "showMeta": true
           },
           "title": "MAKE UNIQUE ILLUSTRATIONS AND QUOTES<br>FOR YOUR SOCIAL MEDIA FEED",
-          "meta": "Starting from Rp 100,000 / post<br>Free endorsement available for discussion."
+          "meta": "Starting from Rp 100,000 / post<br>Free endorsement is available for discussion."
         },
         {
           "_tags": [
@@ -3743,7 +3743,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/forms/d/1bSs12KIQ4WrIzMtsjoDs1x1jze12Guj6DsVgDHHb03Q/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a> "
         },
         {
           "_tags": [
@@ -3825,7 +3825,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shop-2000x1125-48.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shop-2000x1125-57.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3924,7 +3924,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EUNIKE DESIGN STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikearts/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikedesign/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
         }
       ]
     },
@@ -4013,7 +4013,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EUNIKE DESIGN STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikearts/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"personalized-gifts.html\">Personalized Gifts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"special-occasions.html\">For Special Occasions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">For Business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.instagram.com/eunikedesign/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>STALK OUR INSTAGRAM</a></li>"
         },
         {
           "_name": "header1",
