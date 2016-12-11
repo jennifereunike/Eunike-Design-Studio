@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -431,13 +433,14 @@ h6,
 #index-menu-0 .link,
 #index-menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #index-menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #index-menu-0 .dropdown-item,
 #index-menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #index-menu-0 .link:hover,
 #index-menu-0 .dropdown-item:hover,
@@ -503,6 +506,7 @@ h6,
 #index-social-buttons2-0 .mbr-section-title {
   color: #ffffff;
 }
+
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -520,13 +524,14 @@ h6,
 #menu-4 .link,
 #menu-4 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-4 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -644,6 +649,7 @@ h6,
 #form1-m SMALL {
   color: #ffffff;
 }
+
 #page2-menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -661,13 +667,14 @@ h6,
 #page2-menu-0 .link,
 #page2-menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #page2-menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #page2-menu-0 .dropdown-item,
 #page2-menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #page2-menu-0 .link:hover,
 #page2-menu-0 .dropdown-item:hover,
@@ -772,6 +779,7 @@ h6,
 #form1-3 SMALL {
   color: #ffffff;
 }
+
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -789,13 +797,14 @@ h6,
 #menu-11 .link,
 #menu-11 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-11 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-11 .dropdown-item,
 #menu-11 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-11 .link:hover,
 #menu-11 .dropdown-item:hover,
@@ -898,6 +907,7 @@ h6,
 #form1-1l SMALL {
   color: #ffffff;
 }
+
 #menu-1o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -915,13 +925,14 @@ h6,
 #menu-1o .link,
 #menu-1o .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-1o .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-1o .dropdown-item,
 #menu-1o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-1o .link:hover,
 #menu-1o .dropdown-item:hover,
@@ -960,6 +971,7 @@ h6,
 #menu-1o .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+
 #page1-menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -977,13 +989,14 @@ h6,
 #page1-menu-0 .link,
 #page1-menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #page1-menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #page1-menu-0 .dropdown-item,
 #page1-menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #page1-menu-0 .link:hover,
 #page1-menu-0 .dropdown-item:hover,

@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "versionFirst": "3.7.2",
-    "uniqCompNum": 59,
-    "versionPublish": "3.7.2",
+    "uniqCompNum": 60,
+    "versionPublish": "3.9.2",
     "name": "Eunike Design Studio",
     "theme": {
       "name": "mobirise3",
@@ -25,8 +25,9 @@
     },
     "publishType": "local",
     "publishPath": "file:///C:/Users/WINDOWS%207/Documents/GitHub/Eunike%20Design%20Studio",
-    "favicon": "@PROJECT_PATH@/assets/images/pink-128x80-63.jpg",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/eunike-design-studio-logo-128x128-52.jpg",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -55,13 +56,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -93,24 +96,30 @@
           "_anchor": "index-menu-0",
           "_params": {
             "bgColor": "#ffb0b0",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-long-white-transparent-2-287x128-48.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Eunike Design Studio",
+              "link": "index.html",
+              "title": "Eunike Design Studio",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -470,13 +479,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -508,24 +519,30 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#ffb0b0",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-long-white-transparent-2-287x128-73.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Eunike Design Studio",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1119,7 +1136,7 @@
           "_anchor": "features3-u",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1157,7 +1174,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/10k-600x600-74.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-008-1-600x600-5.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1168,7 +1185,7 @@
             }
           },
           "title2": "Shaped Teakwood",
-          "subtitle2": "Square / circle / &nbsp;triangle / hexagon shapes of teakwood slices, smooth finishing. Size: approx. 10 cm.",
+          "subtitle2": "Square / circle / &nbsp;triangle / flower / hexagon shapes of teakwood slices, smooth finishing. Size: approx. 10 cm.",
           "caption2": "Starting from Rp 20,000 / piece",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTATION</a>",
           "media3": {
@@ -1227,6 +1244,68 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-002-2-2000x2000-80-2000x2000-95.png",
+                "image": "@PROJECT_PATH@/assets/images/file-002-2-2000x2000-80.png",
+                "caption": "Triangle-shaped coaster",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-003-2-2000x2000-79-2000x2000-92.png",
+                "image": "@PROJECT_PATH@/assets/images/file-003-2-2000x2000-79.png",
+                "caption": "Flower-shaped coaster",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-008-1-2000x2000-40-2000x2000-1.png",
+                "image": "@PROJECT_PATH@/assets/images/file-008-1-2000x2000-40.png",
+                "caption": "Hexagon-shaped coaster",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-001-1-2000x2000-27-2000x2000-52.png",
+                "image": "@PROJECT_PATH@/assets/images/file-001-1-2000x2000-27.png",
+                "caption": "Rustic white natural coaster",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1n",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -1384,7 +1463,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-3006-600x600-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-001-7-600x600-94.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1541,13 +1620,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1579,24 +1660,30 @@
           "_anchor": "page2-menu-0",
           "_params": {
             "bgColor": "#ffb0b0",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-long-white-transparent-2-287x128-92.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Eunike Design Studio",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1731,7 +1818,7 @@
           },
           "title1": "Floral Background<br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000",
+          "caption1": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000",
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a> ",
           "media2": {
             "image": {
@@ -1747,7 +1834,7 @@
           },
           "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Floral Wreath</span><br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
+          "caption2": "One-sided: IDR 120,000<br>Two-sided (plus personal message): IDR 170,000<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
@@ -1763,7 +1850,7 @@
           },
           "title3": "Personal Message",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One-sided: IDR 90,000<br><br>",
+          "caption3": "One-sided: IDR 100,000<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
@@ -1849,7 +1936,7 @@
           },
           "title1": "Galaxy Background",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000<br>",
+          "caption1": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
@@ -1865,7 +1952,7 @@
           },
           "title2": "Dried Flower Ornament",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
+          "caption2": "One-sided: IDR 120,000<br>Two-sided (plus personal message): IDR 170,000<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
@@ -1881,7 +1968,7 @@
           },
           "title3": "Dried Floral Wreath",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One-sided: IDR 125,000<br>Two-sided (plus personal message): IDR 175,000<br>",
+          "caption3": "One-sided: IDR 135,000<br>Two-sided (plus personal message): IDR 185,000<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
@@ -1963,7 +2050,7 @@
           },
           "title1": "Woodburning",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "One-sided: IDR 135,000<br>Two-sided (plus personal message): IDR 185,000<br>",
+          "caption1": "One-sided: IDR 145,000<br>Two-sided (plus personal message): IDR 195,000<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
@@ -1979,7 +2066,7 @@
           },
           "title2": "Simply Gold",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One-sided: IDR 100,000<br>Two-sided (plus personal message): IDR 150,000<br>",
+          "caption2": "One-sided: IDR 110,000<br>Two-sided (plus personal message): IDR 160,000<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
@@ -1995,7 +2082,7 @@
           },
           "title3": "Illustration",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One-sided: IDR 150,000<br>Two-sided (plus personal message): IDR 160,000<br>",
+          "caption3": "One-sided: IDR 150,000<br>Two-sided (plus personal message): IDR 200,000<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
@@ -2074,7 +2161,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-3269-2000x2000-42-2000x2000-24.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-3269-2000x2000-42.jpg",
-                "caption": "Rectangle shape with rope (15x20 cm)",
+                "caption": "Rectangle shape with rope (15.5x24 cm)",
                 "active": false
               },
               {
@@ -2094,7 +2181,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-2000x2000-59-2000x2000-42.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-2000x2000-59.jpg",
-                "caption": "Classic shape 1 (15x20 cm)",
+                "caption": "Classic shape 1 (13.5x25 cm)",
                 "active": false
               },
               {
@@ -2104,7 +2191,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0688-2000x2000-33-2000x2000-13.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0688-2000x2000-33.jpg",
-                "caption": "Classic shape 2 (15x25 cm)",
+                "caption": "Classic shape 2 (16x31 cm)",
                 "active": false
               },
               {
@@ -2115,6 +2202,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/heart-shaped-2000x2000-48-2000x2000-69.jpg",
                 "image": "@PROJECT_PATH@/assets/images/heart-shaped-2000x2000-48.jpg",
                 "caption": "Heart shape (15x20 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-005-2000x2000-14-2000x2000-6.png",
+                "image": "@PROJECT_PATH@/assets/images/file-005-2000x2000-14.png",
+                "caption": "Round shape with handle (18x30 cm)",
                 "active": true
               }
             ],
@@ -2167,7 +2264,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -2188,7 +2285,7 @@
           },
           "title1": "Simply White",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "One-sided: IDR 165,000 and up<br>Two-sided (plus personal message): IDR 225,000<br>",
+          "caption1": "One-sided: IDR 190,000 and up<br>Two-sided (plus personal message): IDR 240,000 and up<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
@@ -2204,11 +2301,11 @@
           },
           "title2": "Woodburning",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One-sided: IDR 200,000 and up<br>Two-sided (plus personal message): IDR 260,000<br>",
+          "caption2": "One-sided: IDR 250,000 and up<br>Two-sided (plus personal message): IDR 300,000<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2492-600x600-18.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-600x600-31.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2218,22 +2315,26 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Embossing",
+          "title3": "Floral Wreath",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One-sided: IDR 215,000 and up<br>Two-sided (plus personal message): IDR 275,000<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "caption3": "One-sided: IDR 225,000 and up<br>Two-sided (plus personal message): IDR 275,000<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-004-4-600x600-46.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Floral Decoration",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "One-sided: IDR 250,000 and up<br>Two-sided (plus personal message): IDR 300,000<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2291,9 +2392,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2492-2000x2000-48-2000x2000-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2492-2000x2000-48.jpg",
-                "caption": "Classic shape",
+                "thumb": "@PROJECT_PATH@/assets/images/file-004-2000x2000-62-2000x2000-33.png",
+                "image": "@PROJECT_PATH@/assets/images/file-004-2000x2000-62.png",
+                "caption": "Classic shape (25x30 cm)",
                 "active": false
               },
               {
@@ -2301,9 +2402,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rectangular-2000x2000-3-2000x2000-14.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rectangular-2000x2000-3.jpg",
-                "caption": "Classic shape sizes: length 30 cm, 35 cm, 40 cm, 50 cm",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-4-2000x2000-79-2000x2000-30.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-4-2000x2000-79.png",
+                "caption": "Classic shape long (25x42 cm)",
                 "active": false
               },
               {
@@ -2311,9 +2412,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2491-2000x2000-28-2000x2000-91.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2491-2000x2000-28.jpg",
-                "caption": "Pineapple shape",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-2-2000x2000-94-2000x2000-43.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-2-2000x2000-94.png",
+                "caption": "Classic shape 2 (25x30 cm)",
                 "active": false
               },
               {
@@ -2321,9 +2422,139 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/round-2000x2000-46-2000x2000-33.jpg",
-                "image": "@PROJECT_PATH@/assets/images/round-2000x2000-46.jpg",
-                "caption": "Round shape with handle sizes: 25 cm, 30 cm, 35 cm, 40 cm",
+                "thumb": "@PROJECT_PATH@/assets/images/file-001-2-2000x2000-55-2000x2000-28.png",
+                "image": "@PROJECT_PATH@/assets/images/file-001-2-2000x2000-55.png",
+                "caption": "Classic shape 3 (25x30 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-002-2000x2000-77-2000x2000-3.png",
+                "image": "@PROJECT_PATH@/assets/images/file-002-2000x2000-77.png",
+                "caption": "Round shape with handle (diameter 25 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-001-2000x2000-92-2000x2000-36.png",
+                "image": "@PROJECT_PATH@/assets/images/file-001-2000x2000-92.png",
+                "caption": "Rectangle shape (30x17 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-002-1-2000x2000-19-2000x2000-50.png",
+                "image": "@PROJECT_PATH@/assets/images/file-002-1-2000x2000-19.png",
+                "caption": "Flower shape (25x30 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-004-1-2000x2000-64-2000x2000-50.png",
+                "image": "@PROJECT_PATH@/assets/images/file-004-1-2000x2000-64.png",
+                "caption": "Classic shape with burnt effect (24x32 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-003-1-2000x2000-24-2000x2000-24.png",
+                "image": "@PROJECT_PATH@/assets/images/file-003-1-2000x2000-24.png",
+                "caption": "Rabbit shape (36x20 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-003-2000x2000-28-2000x2000-42.png",
+                "image": "@PROJECT_PATH@/assets/images/file-003-2000x2000-28.png",
+                "caption": "Pizza pan shape (20x31 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-008-2000x2000-65-2000x2000-10.png",
+                "image": "@PROJECT_PATH@/assets/images/file-008-2000x2000-65.png",
+                "caption": "Pineapple shape (15x31 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-005-1-2000x2000-21-2000x2000-88.png",
+                "image": "@PROJECT_PATH@/assets/images/file-005-1-2000x2000-21.png",
+                "caption": "Natural sliced log (25x29 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-007-2000x2000-62-2000x2000-77.png",
+                "image": "@PROJECT_PATH@/assets/images/file-007-2000x2000-62.png",
+                "caption": "Rustic white classic shape (21x32 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-009-2000x2000-92-2000x2000-50.png",
+                "image": "@PROJECT_PATH@/assets/images/file-009-2000x2000-92.png",
+                "caption": "Rustic white classic shape long (22x41 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-008-2-2000x2000-80-2000x2000-54.png",
+                "image": "@PROJECT_PATH@/assets/images/file-008-2-2000x2000-80.png",
+                "caption": "Rustic white classic shape no handle (36x22 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-9-2000x2000-16-2000x2000-40.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-9-2000x2000-16.png",
+                "caption": "Rustic shite natural sliced log (29x22 cm)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-10-2000x2000-29-2000x2000-28.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-10-2000x2000-29.png",
+                "caption": "Rustic white classic shape 2 (22x30 cm)",
                 "active": true
               }
             ],
@@ -2540,7 +2771,7 @@
           },
           "title1": "Watercolor Texture Background",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 65,000<br>5R (13x18cm) Rp 70,000<br>6R (15x20cm) Rp 75,000<br>A4 size (21x29.7cm) Rp 100,000<br>A3 size (29.7x42cm) Rp 190,000<br><br><i>(prices exclude frames)</i>",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 110,000<br>A3 size (29.7x42cm) Rp 200,000<br><br><i>(prices exclude frames)</i>",
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
@@ -2556,7 +2787,7 @@
           },
           "title2": "Floral Background",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 120,000<br>A3 size (29.7x42cm) Rp 220,000<br><br><i>(prices exclude frames)</i><br>",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 105,000<br>A4 size (21x29.7cm) Rp 140,000<br>A3 size (29.7x42cm) Rp 250,000<br><br><i>(prices exclude frames)</i><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
@@ -2572,7 +2803,7 @@
           },
           "title3": "Floral Decoration",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 140,000<br>A3 size (29.7x42cm) Rp 250,000<br><br><i>(prices exclude frames)</i><br>",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 95,000<br>5R (13x18cm) Rp 100,000<br>6R (15x20cm) Rp 115,000<br>A4 size (21x29.7cm) Rp 150,000<br>A3 size (29.7x42cm) Rp 270,000<br><br><i>(prices exclude frames)</i><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
@@ -2646,7 +2877,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-3615-600x600-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-003-5-600x600-35.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2658,7 +2889,7 @@
           },
           "title1": "Floral Wreath",
           "subtitle1": "",
-          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 95,000<br>A4 size (21x29.7cm) Rp 140,000<br>A3 size (29.7x42cm) Rp 250,000<br><br><i>(prices exclude frames)</i><br>",
+          "caption1": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 95,000<br>5R (13x18cm) Rp 100,000<br>6R (15x20cm) Rp 115,000<br>A4 size (21x29.7cm) Rp 150,000<br>A3 size (29.7x42cm) Rp 270,000<br><br><i>(prices exclude frames)</i><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
@@ -2678,7 +2909,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1535-600x600-69.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-8-600x600-55.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2688,9 +2919,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Simple Text",
+          "title3": "Embossed Text with Simple Decoration",
           "subtitle3": "",
-          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 60,000<br>5R (13x18cm) Rp 65,000<br>6R (15x20cm) Rp 70,000<br>A4 size (21x29.7cm) Rp 95,000<br>A3 size (29.7x42cm) Rp 160,000<br><br><i>(prices exclude frames)</i><br>",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 95,000<br>5R (13x18cm) Rp 100,000<br>6R (15x20cm) Rp 115,000<br>A4 size (21x29.7cm) Rp 150,000<br>A3 size (29.7x42cm) Rp 270,000<br><br><i>(prices exclude frames)</i><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
@@ -2754,7 +2985,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -2779,7 +3010,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1595-600x600-75.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-11-600x600-71.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2791,11 +3022,11 @@
           },
           "title2": "Personal Message / Poem",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 75,000<br>5R (13x18cm) Rp 80,000<br>6R (15x20cm) Rp 85,000<br>A4 size (21x29.7cm) Rp 90,000<br>A3 size (29.7x42cm) Rp 180,000<br><br><i>(prices exclude frames)</i><br>",
+          "caption2": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 85,000<br>5R (13x18cm) Rp 90,000<br>6R (15x20cm) Rp 105,000<br>A4 size (21x29.7cm) Rp 140,000<br>A3 size (29.7x42cm) Rp 250,000<br><br><i>(prices exclude frames)</i><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-3024-600x600-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1535-600x600-64.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2805,9 +3036,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Tumbler Insert",
+          "title3": "Simple Text",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>ALL SIZES</b><br>Rp 85,000<br><br><br><br><br><br><br>",
+          "caption3": "<b>AVAILABLE SIZES:</b><br>4R (10x15cm) Rp 60,000<br>5R (13x18cm) Rp 65,000<br>6R (15x20cm) Rp 70,000<br>A4 size (21x29.7cm) Rp 95,000<br>A3 size (29.7x42cm) Rp 160,000<br><br><i>(prices exclude frames)</i><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
@@ -2821,9 +3052,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Greeting Cards",
+          "title4": "Tumbler Insert",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\"><b>AVAILABLE SIZES:</b></span><br>4R (10x15cm) Rp 35,000<br>5R (13x18cm) Rp 45,000<br>6R (15x20cm) Rp 50,000<br>A4 size (21x29.7cm) Rp 55,000<br><br><br><br>",
+          "caption4": "<b>ALL SIZES</b><br>Rp 100,000",
           "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1nKmhA3C431_UUaqcsbOy2vEQRYxzYIXSWHpbZ3tN5tc/edit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media5": {
             "image": {
@@ -3081,7 +3312,7 @@
           },
           "title1": "Gift Wrapping",
           "subtitle1": "Plain/floral box with ribbon and wax seal",
-          "caption1": "Starting from Rp 50,000",
+          "caption1": "Starting from Rp 40,000",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ADD</a>",
           "media2": {
             "image": {
@@ -3246,13 +3477,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3284,24 +3517,30 @@
           "_anchor": "menu-11",
           "_params": {
             "bgColor": "#ffb0b0",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-long-white-transparent-2-287x128-65.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Eunike Design Studio",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3860,13 +4099,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3898,24 +4139,30 @@
           "_anchor": "menu-1o",
           "_params": {
             "bgColor": "#ffb0b0",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-long-white-transparent-2-287x128-8.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Eunike Design Studio",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3949,13 +4196,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3987,24 +4236,30 @@
           "_anchor": "page1-menu-0",
           "_params": {
             "bgColor": "#ffb0b0",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-long-white-transparent-2-287x128-52.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Eunike Design Studio",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4611,7 +4866,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-0465-compressed-2000x2000-49-2000x2000-84.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0465-compressed-2000x2000-49.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Paper Artworks, Bible Verses Artworks",
@@ -4622,6 +4877,126 @@
                 "image": "@PROJECT_PATH@/assets/images/img-0466-compressed-2000x2000-76.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Paper Artworks, Bible Verses Artworks, Anniversary Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-5-2000x2000-16-2000x2000-51.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-5-2000x2000-16.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Wedding Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-6-2000x2000-35-2000x2000-44.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-6-2000x2000-35.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Wedding Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-2000x2000-45-2000x2000-45.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-2000x2000-45.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Housewarming Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-001-4-2000x2000-51-2000x2000-43.png",
+                "image": "@PROJECT_PATH@/assets/images/file-001-4-2000x2000-51.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Wedding Gifts, Anniversary Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-001-6-2000x2000-44-2000x2000-9.png",
+                "image": "@PROJECT_PATH@/assets/images/file-001-6-2000x2000-44.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Anniversary Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-004-4-2000x2000-2-2000x2000-36.png",
+                "image": "@PROJECT_PATH@/assets/images/file-004-4-2000x2000-2.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Paper Artworks, Anniversary Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-11-2000x2000-81-2000x2000-18.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-11-2000x2000-81.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Paper Artworks, Anniversary Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-003-5-2000x2000-16-2000x2000-60.png",
+                "image": "@PROJECT_PATH@/assets/images/file-003-5-2000x2000-16.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Anniversary Gifts, Wedding Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-003-4-2000x2000-93-2000x2000-77.png",
+                "image": "@PROJECT_PATH@/assets/images/file-003-4-2000x2000-93.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Anniversary Gifts, Wedding Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-001-5-2000x2000-87-2000x2000-9.png",
+                "image": "@PROJECT_PATH@/assets/images/file-001-5-2000x2000-87.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Anniversary Gifts, Wedding Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-004-3-2000x2000-33-2000x2000-44.png",
+                "image": "@PROJECT_PATH@/assets/images/file-004-3-2000x2000-33.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Small Wood Arts, Anniversary Gifts, Wedding Gifts",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-008-3-2000x2000-50-2000x2000-82.png",
+                "image": "@PROJECT_PATH@/assets/images/file-008-3-2000x2000-50.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -4633,7 +5008,8 @@
             "showBullets": true
           },
           "_anchor": "services-gallery4-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "allItem": ""
         },
         {
           "_tags": [
