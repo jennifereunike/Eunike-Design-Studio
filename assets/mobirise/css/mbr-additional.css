@@ -619,6 +619,13 @@ h6,
 #msg-box8-k p {
   color: #fff;
 }
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1o H3 {
+  font-size: 36px;
+}
 #msg-box8-n .mbr-section-title,
 #msg-box8-n p {
   color: #fff;
@@ -750,6 +757,13 @@ h6,
 }
 #personalized_gifts-header3-2 H3 {
   font-size: 32px;
+}
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1p H3 {
+  font-size: 36px;
 }
 #personalized_gifts-msg-box8-1 .mbr-section-title,
 #personalized_gifts-msg-box8-1 p {

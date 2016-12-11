@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "portfolio.html",
+    "currentPage": "personalized-gifts.html",
     "versionFirst": "3.7.2",
-    "uniqCompNum": 60,
+    "uniqCompNum": 64,
     "versionPublish": "3.9.2",
     "name": "Eunike Design Studio",
     "theme": {
@@ -1246,6 +1246,29 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Coasters Shapes",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1777,7 +1800,7 @@
             "showMeta": true
           },
           "title": "Regular Chopping Boards",
-          "meta": "Pinewood chopping boards, light natural color, non finishing.<br>Various shapes available, size around 17-20 cm."
+          "meta": "Pinewood chopping boards, light natural color, non finishing.<br>Various shapes available, size around 17-35 cm."
         },
         {
           "_name": "features3",
@@ -2244,7 +2267,7 @@
             "showMeta": true
           },
           "title": "Premium Chopping Board",
-          "meta": "Premium teakwood chopping boards, medium dark color, smooth matte finishing.<br>Various shapes and sizes available, size around 30-50 cm."
+          "meta": "Premium teakwood chopping boards, medium dark color, smooth matte finishing.<br>Various shapes and sizes available, size around 20-50 cm."
         },
         {
           "_name": "features3",
@@ -2568,6 +2591,146 @@
           },
           "_anchor": "personalized_gifts-gallery2-0",
           "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Natural Wood Slice",
+          "meta": "<a href=\"http://www.walnuthollow.com\" target=\"_blank\">Walnut Hollow</a>&nbsp;Basswood Country Round<br>Imported from USA, size 16x20 cm"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/file-006-600x600-63.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Paint",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "One-sided: IDR 250,000 and up<br>Two-sided (plus personal message): IDR 300,000 and up<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/file-006-600x600-20.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Woodburning",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One-sided: IDR 300,000 and up<br>Two-sided (plus personal message): IDR 350,000<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/file-006-600x600-80.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Floral Wreath",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "One-sided: IDR 225,000 and up<br>Two-sided (plus personal message): IDR 275,000<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/WINDOWS%207/AppData/Local/Mobirise.com/Mobirise/projectData/file-004-4-600x600-46.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Floral Decoration",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "One-sided: IDR 250,000 and up<br>Two-sided (plus personal message): IDR 300,000<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
