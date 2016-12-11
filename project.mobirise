@@ -4483,16 +4483,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3268-2000x2000-88-2000x2000-89.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3268-2000x2000-88.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Small Wood Arts, Wedding Details",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-3269-2000x2000-39-2000x2000-69.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-3269-2000x2000-39.jpg",
                 "caption": "Type caption here",
@@ -4589,16 +4579,6 @@
                 "active": false
               },
               {
-                "tags": "Paper Artworks, Wedding Gifts",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2901-2000x2000-52-2000x2000-93.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2901-2000x2000-52.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Paper Artworks, For Fun Projects",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -4629,42 +4609,12 @@
                 "active": false
               },
               {
-                "tags": "Gift Wrapping",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3702-2000x2000-91-2000x2000-20.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3702-2000x2000-91.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Paper Artworks, For Fun Projects",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1494-2000x2000-16-2000x2000-55.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1494-2000x2000-16.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Paper Artworks, Wedding Details",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-3194-2000x2000-30-2000x2000-62.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-3194-2000x2000-30.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "For Fun Projects, Housewarming Gifts, Small Wood Arts",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1631-2000x2000-16-2000x2000-50.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1631-2000x2000-16.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4715,16 +4665,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-3159-2000x2000-38-2000x2000-28.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-3159-2000x2000-38.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Small Wood Arts, Housewarming Gifts",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0126-2000x2000-82-2000x2000-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0126-2000x2000-82.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4916,17 +4856,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/file-001-4-2000x2000-51-2000x2000-43.png",
                 "image": "@PROJECT_PATH@/assets/images/file-001-4-2000x2000-51.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Small Wood Arts, Wedding Gifts, Anniversary Gifts",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file-001-6-2000x2000-44-2000x2000-9.png",
-                "image": "@PROJECT_PATH@/assets/images/file-001-6-2000x2000-44.png",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Small Wood Arts, Anniversary Gifts",
@@ -4983,20 +4913,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file-004-3-2000x2000-33-2000x2000-44.png",
-                "image": "@PROJECT_PATH@/assets/images/file-004-3-2000x2000-33.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Small Wood Arts, Anniversary Gifts, Wedding Gifts",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/file-008-3-2000x2000-50-2000x2000-82.png",
                 "image": "@PROJECT_PATH@/assets/images/file-008-3-2000x2000-50.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
