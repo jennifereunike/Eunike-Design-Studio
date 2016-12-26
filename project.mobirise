@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "personalized-gifts.html",
     "versionFirst": "3.7.2",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "3.9.2",
     "name": "Eunike Design Studio",
     "theme": {
@@ -149,7 +149,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-2666-2000x2000-31.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -169,6 +169,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "I DO!",
@@ -183,6 +184,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Handmade with LOVE &lt;3",
@@ -193,10 +195,11 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2785-crop-2000x1172-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-000-2000x1333-75.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "The Gifts They Deserve",
@@ -206,11 +209,12 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"personalized-gifts.html\" data-toolbar=\"-mbrBtnMove\">DESIGN THE PERFECT GIFT</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-3562-2000x2000-72.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.4",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Home Sweet Home",
@@ -1729,7 +1733,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2438-crop-2000x1395-88.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/afterlight-2000x1500-88.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1737,7 +1741,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -2344,7 +2348,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/file-004-4-600x600-46.png",
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-600x600-99.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3205,7 +3209,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/9FPBz3V4jBMFZp632\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-3591-edited-600x600-53.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-3024-600x600-70.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3289,8 +3293,8 @@
           "_name": "features3",
           "_anchor": "features3-2",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3312,7 +3316,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/quote-600x600-20.jpg",
+              "src": "@PROJECT_PATH@/assets/images/square-600x599-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
