@@ -1733,7 +1733,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/afterlight-2000x1500-88.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/a-compressed-2000x1500-14.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
